@@ -1,0 +1,11 @@
+:root {
+  --active-color: #4caf50;
+  --inactive-color: #f44336;
+  --link-hover-color: #18bc9c;
+  --marker-pin-blue: #0b61c3;
+  --marker-pin-green: #1c910d;
+  --marker-pin-yellow: #c3e214;
+  --marker-pin-blue: #9d1ad1;
+  --principal-color: #3f51b5;
+  --principal-color-hover: #303f9f;
+}

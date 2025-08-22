@@ -1,0 +1,66 @@
+[
+  {
+    "title": "¿TrackNavigator es gratuito o tiene algún costo asociado?",
+    "description": "<p class=\"content\"><b>TrackNavigator es completamente GRATUITO</b>. No requiere ningún tipo de pago ni registro. No solicitamos datos personales ni información adicional para acceder a las funciones de la herramienta.</p><p class=\"content\">➡️ Descubre cómo empezar a usar <b>TrackNavigator</b> en el <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=57s\" target=\"_blank\">minuto 0:57 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Cómo maneja TrackNavigator mis datos? ¿Es seguro?",
+    "description": "<p class=\"content\">En TrackNavigator, <b>tu privacidad es una prioridad. No almacenamos ningún dato personal ni ningún archivo que cargues</b>.</p><p class=\"content\">El archivo GPX que subes es utilizado temporalmente para realizar el filtrado y obtener los puntos de interés (POIs) desde <a class=\"important-url\" href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a>, pero no se guarda ni se comparte de ninguna otra forma. Toda la operación ocurre en tiempo real, y una vez finalizado el proceso, el archivo se descarta.</p><p class=\"content\">➡️ Para más detalles sobre cómo funciona la carga de archivos GPX, revisa <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=242s\" target=\"_blank\">el minuto 4:02 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿TrackNavigator requiere de algún software o instalación adicional?",
+    "description": "<p class=\"content\"><b>Ninguno</b>. Lo que es necesario: <ul><li>Navegador como Chrome o Firefox</li><li>Conexión de Internet</li><li>Fichero gpx que queremos cargar para buscar sus POIs</li></ul></p>"
+  },
+  {
+    "title": "APP ¿Es necesario tener una cuenta para usar TrackNavigator?",
+    "description": "<p class=\"content\">No, no es necesario crear una cuenta para usar TrackNavigator. La herramienta es completamente abierta y no requiere ningún tipo de registro o datos personales para acceder a sus funciones.</p><p class=\"content\">Simplemente accede a la aplicación, carga tu archivo GPX y empieza a explorar tus rutas y puntos de interés.</p><p class=\"content\">➡️ Mira cómo empezar a usar <b>TrackNavigator</b> sin necesidad de una cuenta en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=242s\" target=\"_blank\">el minuto 4:02 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Cómo puedo cargar un archivo GPX en TrackNavigator?",
+    "description": "<p class=\"content\">Cargar un archivo GPX en <b>TrackNavigator</b> es muy fácil. Simplemente accedemos a la aplicación web y en el apartado <b>1.- Cargar fichero GPX</b> hacemos click / o arrastramos añadiendo el fichero.</p><p class=\"content\">TrackNavigator lo procesará automáticamente para mostrarte la ruta.</p><p class=\"content\">➡️ Consultamos el proceso al detalle en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=246s\" target=\"_blank\">el minuto 4:06 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Puedo integrar TrackNavigator con otras aplicaciones de navegación, como Google Maps o Strava?",
+    "description": "<p class=\"content\">Actualmente <b>NO ES POSIBLE</b> en ninguna de las opciones y en Google Maps seguramente nunca lo sea. En Strava quien sabe, solo falta que les pueda interesar esta funcionalidad.</p>"
+  },
+  {
+    "title": "¿Qué puedo hacer si mi archivo GPX no carga correctamente?",
+    "description": "<p class=\"content\">Debemos de comprobar que el fichero GPX se ha descargado correctamente. Si no, sería recomendable efectuar de nuevo el proceso de descarga.</p><p class=\"content\">Si aun haciendo esto no carga correctamente, contacta con nosotros en ....</p>"
+  },
+  {
+    "title": "¿Qué tipos de puntos de interés (POIs) puedo encontrar en TrackNavigator?",
+    "description": "<p class=\"content\">En <b>TrackNavigator</b> puedes encontrar una variedad de puntos de interés (POIs), como fuentes de agua potable, baños públicos, picos de montaña, áreas de descanso y muchos más. Estos POIs se obtienen directamente desde <a class=\"important-url\" href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a> y se van ampliando en función de las sugerencias de la comunidad.</p><p class=\"content\">Además, puedes aplicar filtros personalizados para mostrar solo los POIs que sean relevantes para tu ruta. Los filtros disponibles los encontramos en <b>2. Opciones de Configuración</b> => <b>Puntos de Inter&eacute;s</b>.</p><p class=\"content\">➡️ Ve cómo seleccionar y filtrar POIs en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=266s\" target=\"_blank\">el minuto 4:26 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Qué son los perfiles? ¿Para qué sirven?",
+    "description": "<p class=\"content\">Los perfiles en <b>TrackNavigator</b> nos permiten adaptar la búsqueda de puntos de interés (POIs) según el tipo de actividad que estemos realizando, como senderismo, ciclismo o turismo, entre otras opciones. Cada perfil ajusta automáticamente los filtros de POIs para mostrar los más relevantes en función de la actividad seleccionada.</p><p class=\"content\">Por ejemplo, en el perfil de senderismo, se priorizan fuentes de agua y áreas de descanso, mientras que en el perfil de ciclismo se destacan caminos ciclables y estaciones de reparación de bicicletas. Esto facilita la planificación de rutas personalizadas según tus necesidades con opción a añadir / quitar filtros desde el apartado correspondiente a su configuración.</p><p class=\"content\">➡️ Descubre cómo elegir y usar los perfiles en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=288s\" target=\"_blank\">el minuto 4:48 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Qué dispositivos son compatibles con TrackNavigator? ¿Funciona bien en móviles o tablets?",
+    "description": "<p class=\"content\"><b>TrackNavigator</b> es una aplicación web que funciona en cualquier dispositivo con un navegador moderno, incluyendo computadoras de escritorio, portátiles, tablets y teléfonos móviles. La interfaz está optimizada para adaptarse a diferentes tamaños de pantalla, asegurando una experiencia de usuario fluida tanto en móviles como en tablets.</p><p class=\"content\">Los dispositivos recomendados son navegadores web de ordenadores y tablets</p><p class=\"content\">Puedes acceder a <b>TrackNavigator</b> desde tu dispositivo preferido sin problemas de compatibilidad.</p>"
+  },
+  {
+    "title": "¿Qué tan preciso es el radio de proximidad para los puntos de interés? ¿Puedo ajustarlo?",
+    "description": "<p class=\"content\">El radio de proximidad en <b>TrackNavigator</b> es altamente preciso, permitiendo ajustar la distancia en metros para filtrar los puntos de interés (POIs) más cercanos a tu ruta.</p><p class=\"content\"> Puedes configurarlo según tus necesidades, con un rango máximo de 400 metros. Esto nos va a permitir controlar lo cerca que deben estar los POIs para que se muestren, optimizando la relevancia de los puntos en relación con tu recorrido.</p><p class=\"content\"> De esta manera, puedes evitar desviaciones innecesarias y centrarte solo en los POIs que realmente están cerca de tu ruta.</p><p class=\"content\">➡️ Ve cómo ajustar el radio de proximidad en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=346s\" target=\"_blank\">el minuto 5:46 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Cómo puedo descargar mi ruta con los waypoints generados?",
+    "description": "<p class=\"content\">Después de haber generado los waypoints en TrackNavigator, puedes descargar tu ruta con los waypoints incluidos en un archivo GPX. Para hacerlo, simplemente haz clic en la opción <b>\"Descargar fichero con Waypoints\"</b> disponible en la interfaz. Esto mostrará una ventana modal con las dos opciones de descarga que corresponde a la extensión <b>gpx</b> y la <b>kml</b>.</p><p class=\"content\">Seleccionando el formato deseado descargará el archivo con todos los waypoints que hemos añadido durante el proceso de filtrado y selección.</p><p class=\"content\">➡️ Ve el proceso detallado en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=420s\" target=\"_blank\">el minuto 7:00 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Puedo añadir mis propios puntos de interés o sugerir nuevos filtros para la comunidad?",
+    "description": "<p class=\"content\">Actualmente, <b>TrackNavigator</b> no permite añadir puntos de interés (POIs) personalizados directamente en la herramienta. Sin embargo, puedes sugerir nuevos filtros o tipos de POIs a través de nuestro formulario de sugerencias en la página de contacto.<p class=\"content\">Estas sugerencias son revisadas y, si se consideran útiles para la comunidad, se podrían incorporar en futuras actualizaciones.</p><p class=\"content\">➡️ Siguiendo los pasos del siguiente recurso podremos <a href=\"https://mugan86.medium.com/open-street-map-contribuir-a%C3%B1adiendo-puntos-de-inter%C3%A9s-pois-desde-0-31b4730795ef\">agregar nuevos POIs en OpenStreetMap</a></p>"
+  },
+  {
+    "title": "¿Cuánto tiempo lleva generar una ruta con puntos de interés?",
+    "description": "<p class=\"content\">Generar una ruta con puntos de interés en <b>TrackNavigator</b> es sorprendentemente rápido. En nuestras pruebas con rutas extensas, como el Camino de Santiago (32 etapas) con más de 4000 POIs, la planificación completa —desde la descarga de los archivos hasta la aplicación de filtros— se realizó <b>en menos de 20 minutos</b>.</p><p class=\"content\">Hacer esto manualmente tomaría considerablemente mucho más tiempo, potencialmente mínimo una semana siendo optimistas, y con el riesgo de cometer errores. <b>TrackNavigator</b> simplifica y acelera significativamente el proceso de planificación de rutas.<p class=\"content\">➡️ Ve cómo se realiza el proceso en <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=183s\" target=\"_blank\">el minuto 3:03 de nuestro videotutorial</a></p>"
+  },
+  {
+    "title": "¿Los puntos de interés son actualizados constantemente o cómo se gestionan esos datos?",
+    "description": "<p class=\"content\">Los puntos de interés (POIs) en <b>TrackNavigator</b> se obtienen actualizados desde la base de datos de <a class=\"important-url\" href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a>, que se actualiza constantemente gracias a la contribución de la comunidad global.</p><p class=\"content\">Si conoces un punto de interés que no está registrado en la base de datos, te animamos a hacer tu contribución. Cada aportación ayuda a mantener la información precisa y útil. Puedes seguir los pasos para <a href=\"https://mugan86.medium.com/open-street-map-contribuir-a%C3%B1adiendo-puntos-de-inter%C3%A9s-pois-desde-0-31b4730795ef\">agregar nuevos POIs en este recurso</a>.</p><p class=\"content\"> Tu participación es valiosa y ayuda a mejorar la herramienta para todos.</p>"
+  },
+  {
+    "title": "¿Cómo afecta la proximidad de los POIs a la precisión de mi ruta final?",
+    "description": "<p class=\"content\">La proximidad de los puntos de interés (POIs) en <b>TrackNavigator</b> afecta directamente la relevancia y precisión de la información que ves en tu ruta. Al establecer un radio de proximidad, <b>TrackNavigator</b> asegura que solo se muestren los POIs que están dentro de una distancia específica de tu ruta.</p><p class=\"content\"> Esto evita la inclusión de POIs lejanos o irrelevantes, lo que mejora la precisión y la utilidad de los datos en tu planificación. Al mostrar solo los POIs cercanos a tu ruta, obtienes información más precisa y útil para tus necesidades específicas, evitando distracciones o datos innecesarios.</p><p class=\"content\">➡️ Para ver cómo configurar la proximidad de los POIs en TrackNavigator, revisa <a href=\"https://www.youtube.com/watch?v=uc123toJ-oA&t=346s\" target=\"_blank\">el minuto 5:46 de nuestro videotutorial</a></p>"
+  }
+]

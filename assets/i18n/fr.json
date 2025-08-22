@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Track Navigator App",
+    "description": "Outil pour générer des traces avec des Points d'Intérêt (POI) afin de suivre une activité GPS avec plus d'informations et de sécurité"
+  },
+  "download": {
+    "button": "Générer GPX avec waypoints"
+  },
+  "multiSelect": {
+    "label": {
+      "noFilters": "Vous devez sélectionner certains des filtres"
+    },
+    "pois": {
+      "atm": "Distributeur Automatique (ATM)",
+      "bakery": "Boulangerie",
+      "bar": "Bar",
+      "bus": "Arrêts de Bus",
+      "cafe": "Café",
+      "disabledParking": "Parking pour Personnes Handicapées",
+      "fastFood": "Restaurant Fast-Food",
+      "historicalPlaces": "Lieux Historiques",
+      "iceCream": "Glacier",
+      "parking": "Parking",
+      "pastry": "Pâtisserie",
+      "peaks": "Sommets de Montagne",
+      "pub": "Pub / Bar de Nuit",
+      "sportCentres": "Centres Sportifs",
+      "train": "Gares",
+      "toilets": "Toilettes Publiques",
+      "water": "Eau Potable"
+    }
+  },
+  "profiles": {
+    "cityTourist": "Tourisme de Ville",
+    "peakCollector": "Collectionneur de Sommets",
+    "roadCycling": "Cyclisme sur Route",
+    "roadRunner": "Coureur sur Route",
+    "ruralTourist": "Tourisme Rural",
+    "selectOption": "Sélectionnez une option",
+    "trailRunner": "Coureur de Trail",
+    "walkingMountains": "Randonnée en Montagne",
+    "waterPointsHunter": "Chasseur de Points d'Eau Potable"
+  },
+  "sections": {
+    "one": {
+      "errorMessage": "Une erreur s'est produite. Veuillez réessayer.",
+      "infoMessage": "Le fichier sélectionné n'a pas été chargé. Le précédent est chargé et vous pouvez l'utiliser",
+      "okMessage": "Fichier chargé et tracé dessiné :)",
+      "title": "1. Charger le Fichier GPX"
+    },
+    "two": {
+      "errorMessage": "Un fichier GPX doit être chargé.",
+      "infoMessage": "Recherche en cours...",
+      "pois": "Points d'Intérêt",
+      "radiusInfo": "Rayon en mètres proches des POIs",
+      "searchButton": "Rechercher et ajouter des Waypoints",
+      "selectProfile": "Sélectionnez le profil d'aventurier (facultatif)",
+      "title": "2. Options de Configuration"
+    }
+  }
+}

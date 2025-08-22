@@ -1,0 +1,53 @@
+@import url('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css');
+/*body {
+    background-color: rgba(0,0,0,0.8);
+}*/
+#fileInput,
+#map {
+  margin: 15px auto;
+}
+#map {
+  padding: 0;
+  width: 100%;
+  height: 70vh;
+}
+
+.panel {
+  display: none;
+  position: absolute;
+  left: 50px;
+  bottom: 15px;
+  z-index: 450;
+  min-width: 50px;
+  min-height: 50px;
+  text-align: center;
+  background-color: white;
+}
+
+/* Para que las imágenes del popup se ajusten al ancho y se vean bien*/
+.leaflet-popup-content img,
+.leaflet-tooltip-pane img {
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  height: 100vh;
+  width: 100wh;
+  margin: 2rem;
+  background-color: #f4f4f4;
+}
+
+#output {
+  margin-top: 20px;
+  text-align: left;
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  height: 100%;
+}

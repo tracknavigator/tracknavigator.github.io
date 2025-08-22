@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Track Navigator App",
+    "description": "Eina per generar rutes amb Punts d'Interès (POI) per poder seguir una activitat GPS amb més informació i seguretat"
+  },
+  "download": {
+    "button": "Generar GPX amb waypoints"
+  },
+  "multiSelect": {
+    "label": {
+      "noFilters": "Has de seleccionar alguns dels filtres"
+    },
+    "pois": {
+      "atm": "Caixer Automàtic (ATM)",
+      "bakery": "Fleca",
+      "bar": "Bar",
+      "bus": "Parades de Bus",
+      "cafe": "Cafeteria",
+      "disabledParking": "Aparcament per a Discapacitats",
+      "fastFood": "Restaurant de menjar ràpid",
+      "historicalPlaces": "Llocs Històrics",
+      "iceCream": "Gelateria",
+      "parking": "Aparcament",
+      "pastry": "Pastisseria",
+      "peaks": "Cims de Muntanya",
+      "pub": "Pub / Bar de Nit",
+      "sportCentres": "Centres Esportius",
+      "train": "Estacions de Tren",
+      "toilets": "Lavabos Públics",
+      "water": "Aigua Potable"
+    }
+  },
+  "profiles": {
+    "cityTourist": "Turisme de Ciutat",
+    "peakCollector": "Col·leccionista de Cims",
+    "roadCycling": "Ciclisme de Carretera",
+    "roadRunner": "Corredor d'Asfalt",
+    "ruralTourist": "Turisme Rural",
+    "selectOption": "Selecciona una opció",
+    "trailRunner": "Corredor de Trail Running",
+    "walkingMountains": "Senderisme",
+    "waterPointsHunter": "Caçador de Fonts d'Aigua Potable"
+  },
+  "sections": {
+    "one": {
+      "errorMessage": "S'ha produït un error. Si us plau, intenta-ho de nou.",
+      "infoMessage": "El fitxer seleccionat no s'ha carregat. Tens el fitxer anterior carregat i el pots utilitzar",
+      "okMessage": "Fitxer carregat i traçat dibuixat :)",
+      "title": "1. Carregar Fitxer GPX"
+    },
+    "two": {
+      "errorMessage": "Cal tenir una ruta GPX carregada.",
+      "infoMessage": "Iniciant la cerca...",
+      "pois": "Punts d'Interès",
+      "radiusInfo": "Radi en metres propers als POIs",
+      "searchButton": "Cercar i afegir Waypoints",
+      "selectProfile": "Selecciona perfil d'aventurer (opcional)",
+      "title": "2. Opcions de Configuració"
+    }
+  }
+}

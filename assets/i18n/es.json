@@ -1,0 +1,78 @@
+{
+  "app": {
+    "title": "Track Navigator App",
+    "description": "Herramienta para generar tracks con Puntos de Interés (POI) y así poder seguir una actividad de GPS con más información y seguridad"
+  },
+  "download": {
+    "button": "Descargar fichero con Waypoints"
+  },
+  "multiSelect": {
+    "label": {
+      "noFilters": "Debes de seleccionar algunos de los filtros"
+    },
+    "moreButton": "+ Click para seleccionar más POIs",
+    "pois": {
+      "atm": "Cajero Automático (ATM)",
+      "attraction": "Atracciones Turísticas",
+      "bakery": "Panadería",
+      "bar": "Bar",
+      "bus": "Paradas de Bus",
+      "cafe": "Café",
+      "camp_pitch": "Camping",
+      "caves": "Cuevas",
+      "food": "Comida",
+      "fuel": "Gasolinera",
+      "parking_space": "Parking Minusválidos",
+      "fast_food": "Local comida rápida",
+      "historic": "Lugares Históricos",
+      "hostel": "Hostal",
+      "hotel": "Hotel",
+      "ice_cream": "Heladería",
+      "mountain_peak": "Picos de Montaña",
+      "museum": "Museos",
+      "parking": "Parking",
+      "pastry": "Pastelería",
+      "picnic_site": "Lugar para comer al Aire Libre",
+      "pub": "Pub / Bar de Copas",
+      "sports": "Espacios Deportivos",
+      "supermarket": "Supermercado / Alimentos",
+      "train": "Estaciones de Tren",
+      "toilets": "WC Públicos",
+      "viewpoint": "Mirador / Punto de observación",
+      "water": "Agua Potable",
+      "restaurant": "Restaurante"
+    }
+  },
+  "profiles": {
+    "bttGravel": "BTT / Gravel",
+    "cityTourist": "Turismo de Ciudad",
+    "peakCollector": "Coleccionista de Cimas",
+    "roadCycling": "Ciclismo de carretera",
+    "roadRunner": "Corredor de asfalto",
+    "ruralTourist": "Turismo Rural",
+    "selectOption": "Selecciona una opción",
+    "trailRunner": "Corredor Trail Running",
+    "walkingMountains": "Senderismo",
+    "walkingSantiago": "Peregrino Camino de Santiago",
+    "waterPointsHunter": "Cazador de Fuentes de Agua Potable"
+  },
+  "sections": {
+    "one": {
+      "errorMessage": "Ocurrió un error. Por favor, intenta nuevamente.",
+      "infoMessage": "El fichero seleccionado no ha cargado. Tienes el anterior cargado y puedes usarlo",
+      "okMessage": "Fichero cargado y dibujado el track :)",
+      "title": "1. Cargar Fichero GPX"
+    },
+    "two": {
+      "dataOSMInfo": "<p>La información que se usa para los <b>Puntos de Interés (POI)</b> se obtiene desde <b><a class=\"important-url\" href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a></b>. Si no encuentras algún POI y sabes que existe, quizá no esté añadido y sería interesante que lo añadieses como contribución. ¿Cómo podrías hacerlo? Usando esta <b><a href=\"https://medium.com/@mugan86/open-street-map-contribuir-a%C3%B1adiendo-puntos-de-inter%C3%A9s-pois-desde-0-31b4730795ef\" class=\"important-url\" target=\"_blank\">guía paso a paso</a></b>.",
+      "errorMessage": "Es necesario tener un track GPX cargado.",
+      "infoMessage": "Iniciando la búsqueda...",
+      "notFoundData": "<p><b>Sin resultados</b> con los filtros aplicados. Quizás no existan en OpenStreetMap y es <b>necesario contribuir</b> si conoces el lugar.</p><br/><p><b>Toda la información en la parte superior</b> con los enlaces necesarios. Como sugerencia prueba a ampliar también el valor del radio que <b>tiene hasta 400 metros</b></p>",
+      "pois": "Puntos de interés",
+      "radiusInfo": "Radio en metros cercanos de POIs",
+      "searchButton": "Buscar y añadir Waypoints",
+      "selectProfile": "Selecciona perfil de aventurero (opcional)",
+      "title": "2. Opciones de Configuración"
+    }
+  }
+}

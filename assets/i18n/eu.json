@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Track Navigator App",
+    "description": "GPS jarduera seguruago eta informazio gehiagorekin jarraitzeko Interes Guneak (POI) dituzten ibilbideak sortzeko tresna"
+  },
+  "download": {
+    "button": "Waypoint-ekin GPX sortu"
+  },
+  "multiSelect": {
+    "label": {
+      "noFilters": "Iragazki batzuk hautatu behar dituzu"
+    },
+    "pois": {
+      "atm": "Diru-ateratze automatikoa (ATM)",
+      "bakery": "Okindegia",
+      "bar": "Taberna",
+      "bus": "Autobus geltokiak",
+      "cafe": "Kafetegia",
+      "disabledParking": "Desgaituentzako aparkalekua",
+      "fastFood": "Janari azkarra",
+      "historicalPlaces": "Leku historikoak",
+      "iceCream": "Izozkitegia",
+      "parking": "Aparkalekua",
+      "pastry": "Gozotegia",
+      "peaks": "Mendiko tontorrak",
+      "pub": "Pub / Gau-taberna",
+      "sportCentres": "Kirol Zentroak",
+      "train": "Tren geltokiak",
+      "toilets": "Komun Publikoak",
+      "water": "Edateko Ura"
+    }
+  },
+  "profiles": {
+    "cityTourist": "Hiriko Turismoa",
+    "peakCollector": "Gailur Bilduma",
+    "roadCycling": "Errepideko txirrindularitza",
+    "roadRunner": "Errepideko korrikalaria",
+    "ruralTourist": "Landa Turismoa",
+    "selectOption": "Aukera bat hautatu",
+    "trailRunner": "Trail Running Korrikalaria",
+    "walkingMountains": "Mendiko Ibilaldia",
+    "waterPointsHunter": "Edateko Ura Iturrien Ehiztaria"
+  },
+  "sections": {
+    "one": {
+      "errorMessage": "Errore bat gertatu da. Mesedez, saiatu berriro.",
+      "infoMessage": "Hautatutako fitxategia ez da kargatu. Aurrekoa kargatuta dago eta erabil dezakezu",
+      "okMessage": "Fitxategia kargatuta eta ibilbidea marraztuta :)",
+      "title": "1. GPX Fitxategia Kargatu"
+    },
+    "two": {
+      "errorMessage": "GPX ibilbidea kargatuta egon behar da.",
+      "infoMessage": "Bilaketa hasten...",
+      "pois": "Interes Guneak",
+      "radiusInfo": "POI-ei hurbileko metroko erradioa",
+      "searchButton": "Waypoint-ak bilatu eta gehitu",
+      "selectProfile": "Abenturazale profila hautatu (aukerakoa)",
+      "title": "2. Konfigurazio Aukerak"
+    }
+  }
+}
