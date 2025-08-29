@@ -60,6 +60,7 @@
     "one": {
       "errorMessage": "Ocurrió un error. Por favor, intenta nuevamente.",
       "infoMessage": "El fichero seleccionado no ha cargado. Tienes el anterior cargado y puedes usarlo",
+      "processAndReadFileStatus": "Leyendo fichero, si es un fichero grande puede tardar más en dibujarlo en el mapa",
       "okMessage": "Fichero cargado y dibujado el track :)",
       "title": "1. Cargar Fichero GPX"
     },
