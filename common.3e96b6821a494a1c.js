@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmap_bag_osm_pois=self.webpackChunkmap_bag_osm_pois||[]).push([[592],{4898:(s,e,o)=>{o.d(e,{R:()=>n});const n=p=>window.open(p,"_blank","noopener,noreferrer")}}]);
