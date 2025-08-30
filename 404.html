@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Página no encontrada - MapBag</title>
-  <style>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Página no encontrada - MapBag</title>
+    <style>
+      :root {
+      --principal-color: #3f51b5;
+      --principal-color-hover: #303f9f;
+    }
+
     body {
       font-family: Arial, sans-serif;
       text-align: center;
@@ -17,30 +22,38 @@
       height: 100vh;
       margin: 0;
     }
+
     h1 {
       font-size: 3rem;
       margin-bottom: 0.5rem;
     }
+
     p {
       margin-bottom: 1.5rem;
     }
-    a {
-      display: inline-block;
-      padding: 0.75rem 1.5rem;
-      border-radius: 6px;
-      background: #007bff;
-      color: white;
+
+    .button {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      padding: 10px 20px;
+      background-color: var(--principal-color);
+      color: #ffffff;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+      border: none;
       text-decoration: none;
-      transition: background 0.3s ease;
+      font-size: 1rem;
     }
-    a:hover {
-      background: #0056b3;
+
+    .button:hover {
+      background-color: var(--principal-color-hover);
     }
-  </style>
-</head>
-<body>
-  <h1>404</h1>
-  <p>Lo sentimos, la página que buscas no existe.</p>
-  <a href="/">Volver al inicio</a>
-</body>
+    </style>
+  </head>
+  <body>
+    <h1>404</h1>
+    <p>Lo sentimos, la página que buscas no existe.</p>
+    <a href="/" class="button">Volver al inicio</a>
+  </body>
 </html>
