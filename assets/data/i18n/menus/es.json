@@ -1,0 +1,15 @@
+{
+  "header": {
+    "title": "Track Navigator",
+    "nav": {
+      "home": "Inicio",
+      "app": "App",
+      "faq": "FAQ",
+      "demos": "Demos",
+      "aboutMe": "Sobre mí",
+      "contact": "Contacto",
+      "tutorials": "Tutoriales"
+    },
+    "languageSelector": "Selector de idiomas"
+  }
+}

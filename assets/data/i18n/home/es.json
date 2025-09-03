@@ -1,0 +1,59 @@
+{
+  "home": {
+    "headerTitle": "Track Navigator",
+    "subtitle": "La herramienta que te ayuda a planificar de manera eficaz y rápida cualquier objetivo deportivo y/o de ocio",
+    "buttons": {
+      "app": "Aplicación",
+      "faq": "Preguntas Frecuentes (FAQ)",
+      "about": "Sobre mí"
+    },
+    "sections": {
+      "featuresTitle": "¿Qué puede hacer TrackNavigator por ti?",
+      "cards": {
+        "fastCreation": {
+          "title": "Creación rápida de recorridos",
+          "text": "Crea recorridos de hasta <b>32 etapas (Camino de Santiago Francés) con más de 4000 puntos de interés (POIs)</b> en menos de 20 minutos.",
+          "link": "Demos para descargar GRATIS →"
+        },
+        "customSearch": {
+          "title": "Búsqueda personalizada",
+          "text": "<b>Busca información en función de tus intereses</b>, ajustando los resultados según el tipo de ruta o POIs que prefieras."
+        },
+        "openStreetMap": {
+          "title": "Contribuye a OpenStreetMap",
+          "text": "<b>TrackNavigator utiliza OpenStreetMap</b>, una base de datos colaborativa. ¡Contribuye y mejora los mapas para todos!",
+          "link": "Aprende como puedes contribuir →"
+        },
+        "freeAccess": {
+          "title": "Acceso gratuito y abierto",
+          "text": "<b>TrackNavigator es completamente gratuito. Sin registros ni costos ocultos</b>. Carga tu archivo GPX y empieza a explorar."
+        },
+        "gpxKml": {
+          "title": "Compatibilidad GPX y KML",
+          "text": "Los archivos generados son <b>compatibles con múltiples dispositivos</b>, en formatos GPX y KML (Google Earth)."
+        },
+        "dataPrivacy": {
+          "title": "Manejo seguro de datos",
+          "text": "<b>Priorizamos tu privacidad</b>. No almacenamos archivos ni datos personales. Los archivos GPX son procesados y descartados inmediatamente."
+        },
+        "noSoftware": {
+          "title": "Sin software adicional",
+          "text": "No necesitas ningún software adicional. Solo un navegador y tu archivo GPX para empezar."
+        },
+        "downloadRoutes": {
+          "title": "Descarga de rutas generadas",
+          "text": "Habilitada opción de <b>demos con algunos recorridos interesantes con los POIs</b> añadidos como es el Camino de Santiago Francés desde Roncesvalles a Santiago.",
+          "link": "Demos para descargar GRATIS →"
+        },
+        "tryApp": {
+          "title": "¿Quieres probarla?",
+          "text": "Accede a la aplicación y empieza a trabajar con ella",
+          "link": "Empieza a usar la aplicación →"
+        }
+      }
+    },
+    "introSection": {
+      "title": "Introducción a Track Navigator para aprender lo indispensable"
+    }
+  }
+}

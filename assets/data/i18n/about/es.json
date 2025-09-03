@@ -1,0 +1,93 @@
+{
+    "aboutMe": {
+    "who": {
+      "title": "¿Quién soy?",
+      "description": "Mi nombre es <strong>Anartz Mugika Ledo</strong> y soy el creador de <strong>Track Navigator</strong>. Este proyecto ha sido desarrollado por mí con el objetivo de ofrecer una herramienta <strong>accesible, gratuita y útil</strong> para la planificación de rutas deportivas y de ocio. A lo largo de los años, he trabajado en varios proyectos gratuitos para la comunidad, aportando soluciones tecnológicas en diferentes áreas."
+    },
+    "origin": {
+      "title": "¿Cómo surgió Track Navigator?",
+      "description": "<strong>Track Navigator</strong> nació de mi pasión por el deporte y la tecnología, así como de una necesidad concreta: <strong>no encontraba ninguna herramienta</strong> que permitiera obtener automáticamente puntos de interés (POIs) cerca de una ruta trazada.",
+      "extra": "Mi primer objetivo fue desarrollar una plataforma que <strong>facilitara la creación de rutas con waypoints</strong>, incluyendo puntos de avituallamiento como fuentes de agua potable, comercios o sitios útiles para los viajeros. Al practicar actividades deportivas en lugares desconocidos, consideraba esencial poder anticiparme a lo que encontraría en el camino, ya fuera un lugar para reabastecerme o simplemente descansar.",
+      "more": "<strong>Track Navigator</strong> surge precisamente para resolver este problema, permitiendo a los usuarios <strong>planificar sus rutas con más detalle y seguridad</strong>, sin complicaciones ni costos adicionales. Mi objetivo es que cualquier persona, independientemente de su nivel de experiencia, pueda beneficiarse de esta herramienta."
+    },
+    "openStreetMap": {
+      "title": "Basado en OpenStreetMap",
+      "description": "<strong>Track Navigator</strong> se apoya en la extensa base de datos de <strong>OpenStreetMap</strong>, una plataforma colaborativa donde miles de usuarios de todo el mundo añaden puntos de interés. Gracias a esta información, cualquier persona puede planificar rutas con puntos clave, como fuentes de agua potable, comercios, áreas de descanso y mucho más.",
+      "value": "Lo más valioso de <strong>OpenStreetMap</strong> es que cualquier persona puede contribuir. Si cada uno de nosotros añade aunque sea un solo punto de interés o realiza una corrección, estaremos mejorando los datos disponibles para la comunidad global. Con cada pequeño aporte, <strong>no solo mejoras tu propia experiencia, sino también la de otros usuarios</strong> que siguen tus mismos pasos. La contribución colectiva es lo que hace que proyectos como <strong>Track Navigator</strong> sean aún más útiles para todos.",
+      "invite": "Te invito a formar parte de esta comunidad y contribuir a <strong>OpenStreetMap</strong>. Con cada pequeña aportación, mejoras el mapa para ti y para todos los que lo usen en el futuro. ¡<strong>Juntos hacemos que las rutas sean más seguras y eficientes</strong>!"
+    },
+    "contribution": {
+      "title": "¿Cómo puedes contribuir?",
+      "description": "Es muy fácil. A través del siguiente recurso, encontrarás una <strong>guía completa</strong> para comenzar a trabajar en <strong>OpenStreetMap</strong> y realizar tus contribuciones con un caso de uso real, como la incorporación de una fuente de agua potable:",
+      "buttonLabel": "Guía de contribución",
+      "note": "Si tienes preguntas para completar y mejorar la información, visita nuestra <a routerLink='/faq'><strong>sección de preguntas frecuentes</strong></a>. ¡Estaré encantado de ayudarte!"
+    },
+    "communityProjects": {
+      "title": "Otros proyectos desarrollados por mí",
+      "description": "A lo largo de mi carrera he desarrollado varios proyectos que han beneficiado a la comunidad. Algunos de ellos no están directamente relacionados con la cartografía o el deporte, pero son parte de mi compromiso de aportar a la comunidad de manera desinteresada.",
+      "projects": {
+        "servirace": {
+          "title": "Servirace",
+          "text": "Mi primer proyecto serio que consistía en una Guía completa de carreras con todos los detalles que engloban las carreras. Premiado con la segunda mejor puntuación Open Data Euskadi 2016",
+          "links": {
+            "openData": "Open Data Euskadi →",
+            "vitonica": "Vitonica →"
+          }
+        },
+        "podcast": {
+          "title": "Km a Km: Disfrutando del Camino",
+          "text": "Podcast donde comparto mi aventura en el mundo del running. Desde crónicas de carreras hasta lecciones aprendidas, y mucho más. Este espacio está diseñado para inspirar, motivar y ayudar a corredores de todos los niveles a disfrutar cada paso en su propio camino.",
+          "links": {
+            "spotify": "Escuchar en Spotify, Amazon Music,... →"
+          }
+        },
+        "energyGels": {
+          "title": "Generador de Geles",
+          "text": "Generador de geles que nos proporciona los ingredientes a añadir dependiendo de nuestros objetivos de deporte, intensidad y duración.",
+          "links": {
+            "energyGelsAndBottles": "Crea tus propios geles fácil →"
+          }
+        },
+        "python": {
+          "title": "Curso GRATUITO Python 3",
+          "text": "Aprende Python desde 0 al detalle para obtener unas sólidas bases que te permitan desarrollar tu carrera en Desarrollo Web, Machine Learning, Inteligencia Artificial,...",
+          "links": {
+            "python": "Más información →"
+          }
+        },
+        "mediumBlog": {
+          "title": "Blog Desarrollo",
+          "text": "Tutoriales, guías e información interesante sobre los temas que me producen inquietud y mi deseo de contribuir en el conocimiento compartiendo mis experiencias.",
+          "links": {
+            "mediumBlog": "Más información →"
+          }
+        },
+        "qwik": {
+          "title": "Qwik: Desde cero a producción",
+          "text": "Primer libro de Qwik y en Español, después de un arduo y duro trabajo de investigación y desarrollo de diferentes proyectos para disponer de este libro GRATUITO.",
+          "links": {
+            "qwik": "Más información →"
+          }
+        },
+        "leaflet": {
+          "title": "Curso Completo de Leaflet - De 0 a experto",
+          "text": "Aprende paso a paso a trabajar con Leaflet, alternativa a Google Maps gratuita y que es una opción super completa y customizable.",
+          "links": {
+            "leaflet": "Más información →"
+          }
+        },
+        "youtube": {
+          "title": "Youtube: Desarrollo & Formación",
+          "text": "Videos sobre cursos de programación que imparto, videotutoriales de funciones concretas y más.",
+          "links": {
+            "youtube": "Más información →"
+          }
+        }
+      }
+    },
+    "whyTrustMeTitle": "¿Por qué confiar en mí?",
+    "whyTrustMeText": "Con una sólida experiencia en desarrollo web y un enfoque en proyectos de código abierto, me he dedicado a crear herramientas que benefician a la comunidad. Mi objetivo es seguir aportando soluciones tecnológicas que sean útiles y accesibles para todos.",
+    "contributeTitle": "¿Te gustaría contribuir?",
+    "contributeText": "Si tienes sugerencias o deseas colaborar con el proyecto, no dudes en ponerte en contacto conmigo. ¡Juntos podemos mejorar esta herramienta para todos!"
+  }
+}

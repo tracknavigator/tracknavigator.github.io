@@ -1,0 +1,12 @@
+{
+    "demos": {
+        "sectionTitle": "Ejemplos creados con <b>Track Navigator</b>",
+        "sectionDescription": "En este apartado se mostrarán ejemplos de rutas que pueden ser de vuestro interés y que han sido generadas con la aplicación <b>Track Navigator</b> sin mucho esfuerzo, gracias al funcionamiento de esta aplicación que automatiza el proceso agilizando los tiempos y reduciendo errores",
+        "stageLabelGPX": "GPX",
+        "stageLabelKML": "KML",
+        "wikilocButton": "Wikiloc",
+        "showMore": "Ver más +",
+        "showLess": "Ver menos -",
+        "challengeTitle": "{{name}} / Etapas: {{count}}"
+    }
+}
