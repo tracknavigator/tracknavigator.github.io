@@ -4,12 +4,15 @@ Si quieres que otras personas disfruten de tu ruta con los waypoints asociados, 
 
 Estos pasos serán comunes en las dos variantes:
 
+------------
+Recuerda como se creaba las [rutas con Waypoints en Track Navigator](/tutorials/basic)
+------------
+
 1. Inicia sesión en tu cuenta.
 
 2. Pulsa **Subir ruta**.
 
 <img src="https://cdn-images-1.medium.com/max/3352/1*ssW1-88BWzXCriAeugEEWw.png" class="tutorial-img" />
-
 
 **Con 25 waypoints máximo** (un fichero **“gpx”** dentro de la carpeta “waypoints”)
 
@@ -23,7 +26,7 @@ Estos pasos serán comunes en las dos variantes:
 
 Esto es lo que tenemos que tener en cuenta, pero os muestro como hacerlo paso a paso.
 
-Cargamos el fichero original, el que no tiene puntos de interés y se debe de visualizar como aquí **(1)**. Ahora nos queda añadir los puntos de interés **(2).**
+Cargamos el fichero original, **el que no tiene puntos de interés** y se debe de visualizar como aquí **(1)**. Ahora nos queda añadir los puntos de interés **(2).**
 
 <img src="https://cdn-images-1.medium.com/max/2038/1*G3ifDksGyzR34VHnPoiOPw.png" class="tutorial-img" />
 
@@ -155,9 +158,13 @@ Puede resultar confuso, que no tiene sentido, pero es la única manera que he en
 ## Conclusión
 
 Con **TrackNavigator** puedes:
+
 ✅ Crear rutas con Waypoints ilimitados.
+
 ✅ Ahorrar tiempo al añadir POIs automáticamente.
+
 ✅ Planificar aventuras más seguras y completas.
+
 ✅ Exportar y usar tu trabajo en cualquier GPS o aplicación.
 
 Y, si lo deseas, puedes dar un paso más:

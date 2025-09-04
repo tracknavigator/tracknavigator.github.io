@@ -1,5 +1,5 @@
 {
-    "aboutMe": {
+  "aboutMe": {
     "who": {
       "title": "¿Quién soy?",
       "description": "Mi nombre es <strong>Anartz Mugika Ledo</strong> y soy el creador de <strong>Track Navigator</strong>. Este proyecto ha sido desarrollado por mí con el objetivo de ofrecer una herramienta <strong>accesible, gratuita y útil</strong> para la planificación de rutas deportivas y de ocio. A lo largo de los años, he trabajado en varios proyectos gratuitos para la comunidad, aportando soluciones tecnológicas en diferentes áreas."
@@ -38,7 +38,7 @@
           "title": "Km a Km: Disfrutando del Camino",
           "text": "Podcast donde comparto mi aventura en el mundo del running. Desde crónicas de carreras hasta lecciones aprendidas, y mucho más. Este espacio está diseñado para inspirar, motivar y ayudar a corredores de todos los niveles a disfrutar cada paso en su propio camino.",
           "links": {
-            "spotify": "Escuchar en Spotify, Amazon Music,... →"
+            "podcast": "Escuchar en Spotify, Amazon Music,... →"
           }
         },
         "energyGels": {

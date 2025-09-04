@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "home": {
+      "title": "Track Navigator | Planificador de rutas deportivas y de ocio",
+      "description": "Track Navigator es tu planificador de rutas deportivas y de ocio. Crea y explora rutas de senderismo, ciclismo y viajes, incluyendo puntos de interés como fuentes, áreas de descanso y comercios.",
+      "keywords": "tracknavigator, track-navigator, track navigator, planificador de rutas, rutas deportivas, rutas de ocio, openstreetmap, crear rutas con waypoints, senderismo, ciclismo"
+    },
+    "app": {
+      "title": "App | Track Navigator",
+      "description": "Accede a la app Track Navigator y crea rutas con waypoints y puntos de interés. Planifica tus rutas de senderismo, ciclismo o el Camino de Santiago de forma fácil y gratuita.",
+      "keywords": "tracknavigator, track-navigator, track navigator, app rutas deportivas, planificador rutas, openstreetmap, waypoints, angular seo, senderismo, ciclismo, Camino de Santiago"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes | Track Navigator",
+      "description": "Resuelve tus dudas sobre Track Navigator: cómo planificar rutas de senderismo, ciclismo o el Camino de Santiago, agregar puntos de interés y contribuir a OpenStreetMap.",
+      "keywords": "tracknavigator, track-navigator, track navigator, faq track navigator, preguntas planificador rutas, openstreetmap dudas, rutas deportivas faq, senderismo, ciclismo, Camino de Santiago"
+    },
+    "about": {
+      "title": "Sobre mí | Anartz Mugika Ledo",
+      "description": "Soy Anartz Mugika Ledo, creador de Track Navigator y desarrollador web open source con proyectos gratuitos para la comunidad de corredores, ciclistas y viajeros.",
+      "keywords": "tracknavigator, track-navigator, track navigator, anartz mugika ledo, creador track navigator, desarrollador open source, proyectos gratuitos, corredores, ciclistas, viajeros"
+    },
+    "demos": {
+      "title": "Ejemplos de rutas | Track Navigator",
+      "description": "Explora demos de rutas con Track Navigator, ideales para senderismo, ciclismo y el Camino de Santiago, incluyendo fuentes de agua, áreas de descanso y comercios en cada recorrido.",
+      "keywords": "tracknavigator, track-navigator, track navigator, ejemplos track navigator, rutas deportivas openstreetmap, demos planificador rutas, senderismo, ciclismo, Camino de Santiago"
+    },
+    "tutorials": {
+      "default": {
+        "title": "Tutoriales | Track Navigator",
+        "description": "Descubre los tutoriales de Track Navigator para aprender a planificar rutas de senderismo, ciclismo o el Camino de Santiago.",
+        "keywords": "tutoriales tracknavigator, guía rutas deportivas, senderismo tutorial, ciclismo tutorial, Camino de Santiago tutorial"
+      },
+      "basic": {
+        "title": "Tutorial básico | Track Navigator",
+        "description": "Aprende lo esencial para crear tus primeras rutas con Track Navigator.",
+        "keywords": "tutorial básico tracknavigator, crear rutas, senderismo, ciclismo"
+      },
+      "basic-in-video": {
+        "title": "Videotutorial básico | Track Navigator",
+        "description": "Descubre cómo subir las rutas generadas con todos los waypoints, incluso solventando la limitación de 25 Waypoints.",
+        "keywords": "wikiloc tracknavigator, importar rutas wikiloc, senderismo, ciclismo"
+      },
+      "devices": {
+        "title": "Cargar ficheros en dispositivos | Track Navigator",
+        "description": "Descubre cómo añadir los ficheros generados en la aplicación en nuestros dispositivos para poder usarlos en nuestros entrenamientos / salidas de ocio.",
+        "keywords": "coros tracknavigator, cargar rutas, running, garmin track navigator, suntoo tracknavigator, senderismo, ciclismo"
+      },
+      "kml": {
+        "title": "Descargando en formato KML | Track Navigator",
+        "description": "Aprende a descargar tus rutas con Puntos de Interés (POIs) en formato KML desde Track Navigator para usarlas en otros dispositivos y aplicaciones.",
+        "keywords": "kml tracknavigator, descargar rutas kml, exportar rutas kml, puntos de interés, senderismo kml, ciclismo kml, Camino de Santiago kml"
+      },
+      "wikiloc": {
+        "title": "Tutorial Wikiloc | Track Navigator",
+        "description": "Descubre cómo subir las rutas generadas con todos los waypoints, incluso solventando la limitación de 25 Waypoints.",
+        "keywords": "wikiloc tracknavigator, importar rutas wikiloc, senderismo, ciclismo"
+      }
+    }
+  }
+}
