@@ -4,9 +4,9 @@ Si quieres que otras personas disfruten de tu ruta con los waypoints asociados, 
 
 Estos pasos serán comunes en las dos variantes:
 
-------------
-Recuerda como se creaba las [rutas con Waypoints en Track Navigator](/tutorials/basic)
-------------
+---
+
+## Recuerda como se creaba las [rutas con Waypoints en Track Navigator](/tutorials/basic)
 
 1. Inicia sesión en tu cuenta.
 
@@ -46,7 +46,6 @@ Hacemos scroll hacia abajo y continuamos mediante **“Continúa”:**
 
 <img src="https://cdn-images-1.medium.com/max/2086/1*HG9t1JqpYxJBGZSoXr-VKw.png" class="tutorial-img" />
 
-
 Al completar el paso de añadir los waypoints, pasamos a la ficha principal donde se rellena el nombre, descripción, tipo de actividad… nada complejo. Rellenamos y seguimos adelante.
 
 <img src="https://cdn-images-1.medium.com/max/2012/1*bvLejrENQg3BPxdgB1YabQ.png" class="tutorial-img" />
@@ -73,7 +72,6 @@ Hacemos el **mismo proceso, seleccionando la misma ruta original, pero en este c
 
 <img src="https://cdn-images-1.medium.com/max/2000/1*SsCehesy3oCrx4rgCRsURg.png" class="tutorial-img" />
 
-
 Y se mostrará así, como se puede apreciar, el trazado de la ruta es el mismo pero hay diferentes puntos de interés:
 
 <img src="https://cdn-images-1.medium.com/max/2000/1*bejJPwPdhP__sYmqoAq7ig.png" class="tutorial-img" />
@@ -81,7 +79,6 @@ Y se mostrará así, como se puede apreciar, el trazado de la ruta es el mismo p
 Seguir los pasos de configuración, la ficha y demás como creáis conveniente y llegados al final, debemos de tener algo así (no le he cambiado el nombre, tendremos dos rutas iguales pero con diferentes waypoints):
 
 <img src="https://cdn-images-1.medium.com/max/2000/1*ZR4ZMYd4i5ebTM_NLBGsFA.png" class="tutorial-img" />
-
 
 Ir a **“Tus rutas”:**
 
@@ -91,18 +88,15 @@ Ahora en este apartado, como se puede apreciar, tenemos las dos rutas generadas:
 
 <img src="https://cdn-images-1.medium.com/max/2000/1*H8K_CWal_C3xLa8K93CSwA.png" class="tutorial-img" />
 
-
 En lo que se está marcando, **ese icono refleja que hay elementos “agrupados”**, en este caso la ruta con waypoints.
 
 Se puede apreciar con la ruta cargada en el mapa:
 
 <img src="https://cdn-images-1.medium.com/max/3312/1*Ifnsy5IupVa0fu3D57OV5Q.png" class="tutorial-img" />
 
-
 **Si no hay elementos agrupados y solo se encuentra la ruta**, aparecerá como esta ruta, fíjate en el icono y después en el mapa, donde solo está trazada la ruta:
 
 <img src="https://cdn-images-1.medium.com/max/3056/1*K-4pezMyRn5fHxMadNjxoA.png" class="tutorial-img" />
-
 
 Después de explicar esta diferencia, procedo a mostrar como puedes fusionar los waypoints de las dos rutas en una.
 
@@ -111,7 +105,6 @@ Después de explicar esta diferencia, procedo a mostrar como puedes fusionar los
 La **opción que nos interesa** es pulsar **“Desagrupa” (2):**
 
 <img src="https://cdn-images-1.medium.com/max/2000/1*GCDxHLjm3kTGAyyPu-PneA.png" class="tutorial-img" />
-
 
 Confirmamos que queremos hacer la acción:
 
