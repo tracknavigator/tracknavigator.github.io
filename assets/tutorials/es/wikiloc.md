@@ -152,15 +152,15 @@ Puede resultar confuso, que no tiene sentido, pero es la única manera que he en
 
 Con **TrackNavigator** puedes:
 
-✅ Crear rutas con Waypoints ilimitados.
+✅ Crear rutas con **Waypoints ilimitados**.
 
-✅ Ahorrar tiempo al añadir POIs automáticamente.
+✅ **Ahorrar tiempo** al añadir POIs automáticamente y **sin errores**.
 
-✅ Planificar aventuras más seguras y completas.
+✅ Planificar **aventuras más seguras y completas**.
 
 ✅ Exportar y usar tu trabajo en cualquier GPS o aplicación.
 
 Y, si lo deseas, puedes dar un paso más:
 📤 **Compartir tu ruta en Wikiloc** para que la comunidad disfrute de tu trabajo, con todos los Waypoints incluidos en la descarga.
 
-👉 Empieza ahora: [Accede a TrackNavigator](https://tracknavigator.github.io/app)
+👉 Empieza ahora: [Accede a TrackNavigator](/app)
