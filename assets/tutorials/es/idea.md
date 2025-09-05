@@ -10,7 +10,8 @@ Esa experiencia me hizo ver clara una necesidad: **no existía una herramienta s
 
 Es verdad que en los mapas de Strava desde el 2022 se muestran elementos como fuentes de agua potable, pero claro, solo lo puedes ver al volvar tu entrenamiento y no durante la actividad, algo que creo que es fundamental.
 
-Además, conocía el proyecto [Summitbag](https://summitbag.com/), una aplicación que se conecta con Strava y registra automáticamente los picos de montaña que asciendes, almacenando tu historial de ascensiones. Este sería el mismo caso, no sabes durante la actividad si estás pasando algún pico.
+
+Además, conocía el proyecto <a href="https://summitbag.com/" target="_blank" rel="noopener">Summitbag</a>, una aplicación que se conecta con Strava y registra automáticamente los picos de montaña que asciendes, almacenando tu historial de ascensiones. Este sería el mismo caso, no sabes durante la actividad si estás pasando algún pico.
 
 Teniendo en cuenta estos aspectos, esto fue lo que me dio la idea base de lo que quería crear: extraer picos de montaña, fuentes de agua potable… en definitiva, todo lo que pueda ser útil en una salida, tanto por seguridad como por comodidad.
 

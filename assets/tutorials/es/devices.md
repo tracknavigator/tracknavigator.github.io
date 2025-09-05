@@ -20,7 +20,7 @@ Son referencias de contenidos que creo que son muy útiles y/o referencias ofici
 
 ## Suntoo
 
-[Enlace oficial](https://www.suunto.com/es-es/Asistencia/faq-articles/suunto-app/como-importo-un-archivo-.gpx-a-la-app-suunto-para-android/) a la asistencia de Suntoo donde trata este apartado.
+<a href="https://www.suunto.com/es-es/Asistencia/faq-articles/suunto-app/como-importo-un-archivo-.gpx-a-la-app-suunto-para-android/" target="_blank" rel="noopener">Enlace oficial</a> a la asistencia de Suntoo donde trata este apartado.
 
 ## Coros
 

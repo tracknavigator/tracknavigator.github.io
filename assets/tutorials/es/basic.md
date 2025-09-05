@@ -35,7 +35,7 @@ En este tutorial te explicaré qué es TrackNavigator, cómo usarlo para enrique
 
 ## Cómo usar TrackNavigator paso a paso
 
-> Requisito: es necesario tener un fichero GPX (si no sabes como conseguirlo, [aquí se explica](https://ayuda.wikiloc.com/article/519-descargar-bajar-ruta-rutas-wikiloc-web))
+> Requisito: es necesario tener un fichero GPX (si no sabes como conseguirlo, <a href="https://ayuda.wikiloc.com/article/519-descargar-bajar-ruta-rutas-wikiloc-web" target="_blank" rel="noopener">aquí se explica</a>
 
 ### Entra en [TrackNavigator](/app)
 
