@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "home": {
+      "title": "Track Navigator | Sports and Leisure Route Planner",
+      "description": "Track Navigator is your sports and leisure route planner. Create and explore hiking, cycling, and travel routes, including points of interest such as fountains, rest areas, and shops.",
+      "keywords": "tracknavigator, track-navigator, track navigator, route planner, sports routes, leisure routes, openstreetmap, create routes with waypoints, hiking, cycling"
+    },
+    "app": {
+      "title": "App | Track Navigator",
+      "description": "Access the Track Navigator app and create routes with waypoints and points of interest. Easily and freely plan your hiking, cycling, or Camino de Santiago routes.",
+      "keywords": "tracknavigator, track-navigator, track navigator, sports routes app, route planner, openstreetmap, waypoints, angular seo, hiking, cycling, Camino de Santiago"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions | Track Navigator",
+      "description": "Find answers to your questions about Track Navigator: how to plan hiking, cycling, or Camino de Santiago routes, add points of interest, and contribute to OpenStreetMap.",
+      "keywords": "tracknavigator, track-navigator, track navigator, faq track navigator, route planner questions, openstreetmap help, sports routes faq, hiking, cycling, Camino de Santiago"
+    },
+    "about": {
+      "title": "About Me | Anartz Mugika Ledo",
+      "description": "I am Anartz Mugika Ledo, creator of Track Navigator and open-source web developer with free projects for the running, cycling, and travel communities.",
+      "keywords": "tracknavigator, track-navigator, track navigator, anartz mugika ledo, track navigator creator, open source developer, free projects, runners, cyclists, travelers"
+    },
+    "demos": {
+      "title": "Route Examples | Track Navigator",
+      "description": "Explore demo routes with Track Navigator, ideal for hiking, cycling, and the Camino de Santiago, including water fountains, rest areas, and shops along each route.",
+      "keywords": "tracknavigator, track-navigator, track navigator, track navigator examples, sports routes openstreetmap, route planner demos, hiking, cycling, Camino de Santiago"
+    },
+    "tutorials": {
+      "default": {
+        "title": "Tutorials | Track Navigator",
+        "description": "Discover Track Navigator tutorials to learn how to plan hiking, cycling, or Camino de Santiago routes.",
+        "keywords": "tracknavigator tutorials, sports route guide, hiking tutorial, cycling tutorial, Camino de Santiago tutorial"
+      },
+      "basic": {
+        "title": "Basic Tutorial | Track Navigator",
+        "description": "Learn the essentials to create your first routes with Track Navigator.",
+        "keywords": "tracknavigator basic tutorial, create routes, hiking, cycling"
+      },
+      "basic-in-video": {
+        "title": "Basic Video Tutorial | Track Navigator",
+        "description": "Learn how to upload generated routes with all waypoints, even overcoming the 25-waypoint limit.",
+        "keywords": "wikiloc tracknavigator, import wikiloc routes, hiking, cycling"
+      },
+      "devices": {
+        "title": "Loading Files on Devices | Track Navigator",
+        "description": "Learn how to add the files generated in the app to your devices so you can use them during training or leisure outings.",
+        "keywords": "coros tracknavigator, load routes, running, garmin track navigator, suunto tracknavigator, hiking, cycling"
+      },
+      "kml": {
+        "title": "Downloading in KML Format | Track Navigator",
+        "description": "Learn how to download your routes with Points of Interest (POIs) in KML format from Track Navigator to use them on other devices and applications.",
+        "keywords": "kml tracknavigator, download kml routes, export kml routes, points of interest, hiking kml, cycling kml, Camino de Santiago kml"
+      },
+      "wikiloc": {
+        "title": "Wikiloc Tutorial | Track Navigator",
+        "description": "Learn how to upload generated routes with all waypoints, even overcoming the 25-waypoint limit.",
+        "keywords": "wikiloc tracknavigator, import wikiloc routes, hiking, cycling"
+      }
+    }
+  }
+}

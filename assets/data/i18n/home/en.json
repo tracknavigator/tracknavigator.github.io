@@ -1,0 +1,59 @@
+{
+  "home": {
+    "headerTitle": "Track Navigator",
+    "subtitle": "The tool that helps you efficiently and quickly plan any sports or leisure goal",
+    "buttons": {
+      "app": "App",
+      "faq": "Frequently Asked Questions (FAQ)",
+      "about": "About Me"
+    },
+    "sections": {
+      "featuresTitle": "What Can TrackNavigator Do for You?",
+      "cards": {
+        "fastCreation": {
+          "title": "Quick Route Creation",
+          "text": "Create routes of up to <b>32 stages (French Camino de Santiago) with over 4,000 Points of Interest (POIs)</b> in less than 20 minutes.",
+          "link": "Free downloadable demos →"
+        },
+        "customSearch": {
+          "title": "Custom Search",
+          "text": "<b>Search for information based on your interests</b>, adjusting results according to the type of route or POIs you prefer."
+        },
+        "openStreetMap": {
+          "title": "Contribute to OpenStreetMap",
+          "text": "<b>TrackNavigator uses OpenStreetMap</b>, a collaborative database. Contribute and improve the maps for everyone!",
+          "link": "Learn how you can contribute →"
+        },
+        "freeAccess": {
+          "title": "Free and Open Access",
+          "text": "<b>TrackNavigator is completely free. No registration or hidden costs</b>. Upload your GPX file and start exploring."
+        },
+        "gpxKml": {
+          "title": "GPX and KML Compatibility",
+          "text": "Generated files are <b>compatible with multiple devices</b>, in GPX and KML formats (Google Earth)."
+        },
+        "dataPrivacy": {
+          "title": "Secure Data Handling",
+          "text": "<b>We prioritize your privacy</b>. We do not store files or personal data. GPX files are processed and discarded immediately."
+        },
+        "noSoftware": {
+          "title": "No Additional Software",
+          "text": "No additional software is required. Just a browser and your GPX file to get started."
+        },
+        "downloadRoutes": {
+          "title": "Download Generated Routes",
+          "text": "Option available for <b>demos with interesting routes including POIs</b>, such as the French Camino de Santiago from Roncesvalles to Santiago.",
+          "link": "Free downloadable demos →"
+        },
+        "tryApp": {
+          "title": "Want to Try It?",
+          "text": "Access the app and start working with it",
+          "link": "Start using the app →"
+        }
+      }
+    },
+    "introSection": {
+      "title": "Introduction to Track Navigator: Learn the Essentials"
+    }
+  }
+}

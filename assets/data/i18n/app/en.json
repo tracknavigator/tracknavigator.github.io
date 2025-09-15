@@ -1,0 +1,84 @@
+{
+  "multiSelect": {
+     "basic": {
+      "fileSelected": "Selected file: {{ fileSelected }}",
+      "input": "Drag and drop your files here / Click to select"
+    },
+    "label": {
+      "noFilters": "Please select at least one filter"
+    },
+    "moreButton": "+ Click to select more POIs",
+    "pois": {
+      "atm": "ATM",
+      "attraction": "Tourist Attractions",
+      "bakery": "Bakery",
+      "bar": "Bar",
+      "bus": "Bus Stops",
+      "cafe": "Cafe",
+      "camp_pitch": "Camping",
+      "caves": "Caves",
+      "food": "Food",
+      "fuel": "Gas Station",
+      "parking_space": "Disabled Parking",
+      "fast_food": "Fast Food",
+      "historic": "Historic Sites",
+      "hostel": "Hostel",
+      "hotel": "Hotel",
+      "ice_cream": "Ice Cream",
+      "mountain_peak": "Mountain Peaks",
+      "museum": "Museums",
+      "parking": "Parking",
+      "pastry": "Pastry",
+      "picnic_site": "Picnic Area",
+      "pub": "Pub",
+      "sports": "Sports Facilities",
+      "supermarket": "Supermarket",
+      "train": "Train Stations",
+      "toilets": "Public Toilets",
+      "viewpoint": "Viewpoint",
+      "water": "Drinking Water",
+      "restaurant": "Restaurant"
+    }
+  },
+  "profiles": {
+    "bttGravel": "BTT / Gravel",
+    "cityTourist": "City Tourism",
+    "peakCollector": "Peak Collector",
+    "roadCycling": "Road Cycling",
+    "roadRunner": "Road Runner",
+    "ruralTourist": "Rural Tourism",
+    "selectOption": "Select an option",
+    "trailRunner": "Trail Running",
+    "walkingMountains": "Hiking",
+    "walkingSantiago": "Camino de Santiago",
+    "waterPointsHunter": "Water Source Hunter",
+    "birdwatcher": "Birdwatcher",
+    "photographyHunter": "Photo Enthusiast",
+    "climber": "Climber",
+    "gastronomicTourist": "Foodie Tourist",
+    "historyBuff": "History Lover",
+    "familyTripNature": "Family Trip (Nature)",
+    "familyTripCity": "Family Trip (City)",
+    "petFriendly": "Pet Friendly"
+  },
+  "sections": {
+    "one": {
+      "errorMessage": "Error occurred. Please try again.",
+      "infoMessage": "Selected file didn’t load. Previous file is still available.",
+      "processAndReadFileStatus": "Reading file… large files may take longer to display",
+      "okMessage": "File loaded and track displayed!",
+      "title": "1. Upload GPX File"
+    },
+    "two": {
+      "dataOSMInfo": "<p>POI data comes from <b><a class=\"important-url\" href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a></b>. If a POI is missing, you can contribute it using this <b><a href=\"https://medium.com/@mugan86/open-street-map-contribuir-a%C3%B1adiendo-puntos-de-inter%C3%A9s-pois-desde-0-31b4730795ef\" class=\"important-url\" target=\"_blank\">step-by-step guide</a></b>.</p>",
+      "errorMessage": "A GPX track must be loaded.",
+      "infoMessage": "Starting search…",
+      "notFoundData": "<p><b>No results</b> for the selected filters. Consider contributing if you know the location.</p><br/><p>Check the top section for links. Try increasing the radius up to <b>400 meters</b>.</p>",
+      "pois": "Points of Interest",
+      "radiusInfo": "Radius (meters) for nearby POIs",
+      "searchButton": "Search & Add Waypoints",
+      "selectProfile": "Select adventurer profile (optional)",
+      "title": "2. Configuration Options"
+    }
+  }
+}

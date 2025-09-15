@@ -1,0 +1,93 @@
+{
+  "aboutMe": {
+    "who": {
+      "title": "Who am I?",
+      "description": "My name is <strong>Anartz Mugika Ledo</strong> and I am the creator of <strong>Track Navigator</strong>. I developed this project to provide an <strong>accessible, free, and useful</strong> tool for planning sports and leisure routes. Over the years, I have worked on several free projects for the community, offering technological solutions across different areas."
+    },
+    "origin": {
+      "title": "How did Track Navigator start?",
+      "description": "<strong>Track Navigator</strong> was born from my passion for sports and technology, as well as a specific need: <strong>I couldn’t find any tool</strong> that would automatically provide points of interest (POIs) near a planned route.",
+      "extra": "My first goal was to create a platform that <strong>made it easy to generate routes with waypoints</strong>, including supply points like drinking fountains, shops, or useful spots for travelers. When doing sports in unfamiliar places, I found it essential to anticipate what I would encounter along the way, whether a place to refill or simply to rest.",
+      "more": "<strong>Track Navigator</strong> exists precisely to solve this problem, allowing users to <strong>plan their routes with more detail and safety</strong>, without complications or extra costs. My goal is for anyone, regardless of experience level, to benefit from this tool."
+    },
+    "openStreetMap": {
+      "title": "Based on OpenStreetMap",
+      "description": "<strong>Track Navigator</strong> relies on the extensive <strong>OpenStreetMap</strong> database, a collaborative platform where thousands of users worldwide add points of interest. Thanks to this information, anyone can plan routes including key points such as drinking fountains, shops, rest areas, and more.",
+      "value": "The most valuable thing about <strong>OpenStreetMap</strong> is that anyone can contribute. If each of us adds even a single point of interest or makes a correction, we improve the data available to the global community. With each small contribution, <strong>you not only enhance your own experience but also that of other users</strong> following the same paths. Collective contribution is what makes projects like <strong>Track Navigator</strong> even more useful for everyone.",
+      "invite": "I invite you to join this community and contribute to <strong>OpenStreetMap</strong>. With every small contribution, you improve the map for yourself and for everyone who will use it in the future. <strong>Together we make routes safer and more efficient</strong>!"
+    },
+    "contribution": {
+      "title": "How can you contribute?",
+      "description": "It’s very easy. Through the following resource, you will find a <strong>complete guide</strong> to start contributing to <strong>OpenStreetMap</strong> with a real use case, such as adding a drinking fountain:",
+      "buttonLabel": "Contribution Guide",
+      "note": "If you have questions about completing or improving the information, visit our <a routerLink='/faq'><strong>FAQ section</strong></a>. I’ll be happy to help!"
+    },
+    "communityProjects": {
+      "title": "Other projects developed by me",
+      "description": "Throughout my career, I have developed various projects that have benefited the community. Some are not directly related to mapping or sports, but they reflect my commitment to giving back selflessly.",
+      "projects": {
+        "servirace": {
+          "title": "Servirace",
+          "text": "My first serious project, a complete race guide covering all the details of running events. Awarded second place in Open Data Euskadi 2016",
+          "links": {
+            "openData": "Open Data Euskadi →",
+            "vitonica": "Vitonica →"
+          }
+        },
+        "podcast": {
+          "title": "Km a Km: Enjoying the Camino",
+          "text": "A podcast where I share my running adventures. From race reports to lessons learned and much more. This space is designed to inspire, motivate, and help runners of all levels enjoy every step of their journey.",
+          "links": {
+            "podcast": "Listen on Spotify, Amazon Music,... →"
+          }
+        },
+        "energyGels": {
+          "title": "Energy Gel Generator",
+          "text": "A generator that provides ingredients to create gels based on your sports goals, intensity, and duration.",
+          "links": {
+            "energyGelsAndBottles": "Easily create your own gels →"
+          }
+        },
+        "python": {
+          "title": "FREE Python 3 Course",
+          "text": "Learn Python from scratch in detail to build a solid foundation for careers in Web Development, Machine Learning, Artificial Intelligence, and more.",
+          "links": {
+            "python": "More info →"
+          }
+        },
+        "mediumBlog": {
+          "title": "Development Blog",
+          "text": "Tutorials, guides, and interesting insights on topics I am passionate about, sharing my experience to contribute to the community’s knowledge.",
+          "links": {
+            "mediumBlog": "More info →"
+          }
+        },
+        "qwik": {
+          "title": "Qwik: From Zero to Production",
+          "text": "The first Qwik book in Spanish, created after extensive research and development of multiple projects to provide this FREE resource.",
+          "links": {
+            "qwik": "More info →"
+          }
+        },
+        "leaflet": {
+          "title": "Complete Leaflet Course - From Beginner to Expert",
+          "text": "Step-by-step guide to working with Leaflet, a free alternative to Google Maps, offering a fully customizable solution.",
+          "links": {
+            "leaflet": "More info →"
+          }
+        },
+        "youtube": {
+          "title": "YouTube: Development & Training",
+          "text": "Videos of programming courses I teach, video tutorials on specific functions, and more.",
+          "links": {
+            "youtube": "More info →"
+          }
+        }
+      }
+    },
+    "whyTrustMeTitle": "Why trust me?",
+    "whyTrustMeText": "With solid experience in web development and a focus on open-source projects, I have dedicated myself to creating tools that benefit the community. My goal is to continue providing technological solutions that are useful and accessible to everyone.",
+    "contributeTitle": "Would you like to contribute?",
+    "contributeText": "If you have suggestions or want to collaborate on the project, feel free to contact me. Together, we can make this tool better for everyone!"
+  }
+}

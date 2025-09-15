@@ -1,61 +1,10 @@
 {
   "app": {
     "title": "Track Navigator App",
-    "description": "Tool to generate tracks with Points of Interest (POI) to follow a GPS activity with more information and safety"
+    "description": "Tool to generate tracks with Points of Interest (POI) so you can follow a GPS activity with more information and safety."
   },
-  "download": {
-    "button": "Generate GPX with waypoints"
-  },
-  "multiSelect": {
-    "label": {
-      "noFilters": "You must select some of the filters"
-    },
-    "pois": {
-      "atm": "ATM",
-      "bakery": "Bakery",
-      "bar": "Bar",
-      "bus": "Bus Stops",
-      "cafe": "Café",
-      "disabledParking": "Disabled Parking",
-      "fastFood": "Fast Food Place",
-      "historicalPlaces": "Historical Places",
-      "iceCream": "Ice Cream Shop",
-      "parking": "Parking",
-      "pastry": "Pastry Shop",
-      "peaks": "Mountain Peaks",
-      "pub": "Pub / Night Bar",
-      "sportCentres": "Sports Centers",
-      "train": "Train Stations",
-      "toilets": "Public Toilets",
-      "water": "Drinking Water"
-    }
-  },
-  "profiles": {
-    "cityTourist": "City Tourism",
-    "peakCollector": "Peak Collector",
-    "roadCycling": "Road Cycling",
-    "roadRunner": "Road Runner",
-    "ruralTourist": "Rural Tourism",
-    "selectOption": "Select an option",
-    "trailRunner": "Trail Runner",
-    "walkingMountains": "Mountain Hiking",
-    "waterPointsHunter": "Drinking Water Points Hunter"
-  },
-  "sections": {
-    "one": {
-      "errorMessage": "An error occurred. Please try again.",
-      "infoMessage": "The selected file has not loaded. The previous one is loaded, and you can use it",
-      "okMessage": "File loaded, and track drawn :)",
-      "title": "1. Load GPX File"
-    },
-    "two": {
-      "errorMessage": "A GPX track must be loaded.",
-      "infoMessage": "Starting the search...",
-      "pois": "Points of Interest",
-      "radiusInfo": "Radius in nearby meters of POIs",
-      "searchButton": "Search and add Waypoints",
-      "selectProfile": "Select adventurer profile (optional)",
-      "title": "2. Configuration Options"
-    }
+  "tutorials": {
+    "sectionTitle": "Tutorials <b>{{toolName}}</b>",
+    "sectionDescription": "In this section, you will find a list of useful tutorials created for the <b>{{toolName}}</b> tool. They will teach you how to perform actions such as uploading generated files to your GPS device or publishing routes with their POIs on platforms like Wikiloc, allowing you to share your routes in a simple and practical way."
   }
 }

@@ -1,5 +1,9 @@
 {
   "multiSelect": {
+    "basic": {
+      "fileSelected": "Archivo seleccionado: {{ fileSelected }}",
+      "input": "Arrastra y suelta tus archivos aquí / Click para seleccionar"
+    },
     "label": {
       "noFilters": "Debes de seleccionar algunos de los filtros"
     },

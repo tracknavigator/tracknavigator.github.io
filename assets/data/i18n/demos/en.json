@@ -1,0 +1,12 @@
+{
+  "demos": {
+    "sectionTitle": "Examples Created with <b>Track Navigator</b>",
+    "sectionDescription": "This section showcases example routes that may be of interest to you, generated with the <b>Track Navigator</b> app effortlessly, thanks to the app’s automated process which speeds up planning and reduces errors.",
+    "stageLabelGPX": "GPX",
+    "stageLabelKML": "KML",
+    "wikilocButton": "Wikiloc",
+    "showMore": "Show More +",
+    "showLess": "Show Less -",
+    "challengeTitle": "{{name}} / Stages: {{count}}"
+  }
+}
